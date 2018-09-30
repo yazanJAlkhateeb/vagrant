@@ -1,0 +1,3 @@
+CREATE DATABASE psysjo;
+GO
+EXIT
